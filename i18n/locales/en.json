@@ -1,0 +1,128 @@
+{
+  "app": {
+    "name": "FamilyShield",
+    "tagline": "Stay Safe Online"
+  },
+  "onboarding": {
+    "title": "Welcome to FamilyShield",
+    "subtitle": "Your AI-powered scam protector",
+    "language": "Choose Your Language",
+    "getStarted": "Get Started",
+    "languages": {
+      "en": "English",
+      "hi": "हिन्दी",
+      "ta": "தமிழ்",
+      "te": "తెలుగు"
+    }
+  },
+  "home": {
+    "title": "FamilyShield",
+    "greeting": "Stay Protected",
+    "scan": "Scan Screenshot",
+    "analyzeText": "Analyze Text",
+    "analyzeLink": "Check a Link",
+    "recentScans": "Recent Scans",
+    "noScans": "No scans yet. Tap a button above to get started!",
+    "safetyTips": "Safety Tips",
+    "settings": "Settings"
+  },
+  "scan": {
+    "title": "Scan for Scams",
+    "takePhoto": "Take Screenshot",
+    "fromGallery": "From Gallery",
+    "pasteText": "Or paste text here",
+    "pastePlaceholder": "Paste SMS, email, or message text here...",
+    "analyze": "Analyze",
+    "analyzing": "Analyzing...",
+    "extracting": "Extracting text..."
+  },
+  "results": {
+    "safe": "Safe",
+    "suspicious": "Suspicious",
+    "scam": "Scam Detected",
+    "riskIndicators": "Risk Indicators",
+    "explanation": "Explanation",
+    "shareWithFamily": "Share with Family",
+    "saveScan": "Save to History",
+    "confidence": "Confidence",
+    "scamType": "Scam Type",
+    "back": "Back",
+    "noIndicators": "No risk indicators found"
+  },
+  "family": {
+    "title": "Family Hub",
+    "addMember": "Add Family Member",
+    "alerts": "Alerts",
+    "noAlerts": "No alerts yet. When a scam is detected, alerts will appear here.",
+    "name": "Name",
+    "relation": "Relation",
+    "son": "Son",
+    "daughter": "Daughter",
+    "spouse": "Spouse",
+    "other": "Other",
+    "add": "Add",
+    "cancel": "Cancel",
+    "memberAdded": "Family member added!",
+    "remove": "Remove"
+  },
+  "guide": {
+    "title": "UPI Safety Guide",
+    "neverSharePin": {
+      "title": "Never Share UPI PIN",
+      "description": "No legitimate organization will ever ask for your UPI PIN. Never share it with anyone, even if they claim to be from your bank."
+    },
+    "verifyBeforePay": {
+      "title": "Verify Before Paying",
+      "description": "Always double-check the recipient name and amount before confirming any UPI transaction. Scammers often use similar names."
+    },
+    "fakeLinks": {
+      "title": "Recognize Fake Payment Links",
+      "description": "Fake payment links look real but lead to scammer accounts. Always verify the URL and never click suspicious links in SMS or emails."
+    },
+    "dontRush": {
+      "title": "Don't Rush Decisions",
+      "description": "Scammers create urgency to make you act without thinking. Take your time and verify before taking any action."
+    },
+    "checkSender": {
+      "title": "Check Sender Number",
+      "description": "Verify the sender's phone number. Banks and government agencies rarely communicate via unsolicited SMS with links."
+    },
+    "report": {
+      "title": "Report Suspicious Activity",
+      "description": "If you receive a suspicious message or call, report it to your bank and the National Cyber Crime Helpline at 1930."
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "apiKey": "OpenAI API Key",
+    "apiKeyPlaceholder": "sk-...",
+    "saveKey": "Save API Key",
+    "notifications": "Notifications",
+    "enableNotifications": "Enable Family Alerts",
+    "about": "About",
+    "version": "Version",
+    "privacy": "Privacy Policy",
+    "keySaved": "API key saved!",
+    "keyInvalid": "Invalid API key format. Must start with 'sk-'"
+  },
+  "error": {
+    "noInternet": "No internet connection. Check your connection and try again.",
+    "ocrFailed": "Could not read text from image. Try a clearer screenshot.",
+    "analysisFailed": "Analysis failed. Try again?",
+    "emptyInput": "Paste or capture text to analyze.",
+    "captureCancelled": "Photo capture cancelled.",
+    "retry": "Retry",
+    "ok": "OK"
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "done": "Done",
+    "retry": "Retry",
+    "share": "Share",
+    "save": "Save",
+    "delete": "Delete"
+  }
+}
